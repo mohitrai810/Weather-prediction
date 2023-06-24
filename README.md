@@ -1,5 +1,9 @@
 # Weather-prediction
 
+Note: Please note that the API key used in the code is a placeholder (api_key = "1dd75cabfc897fa70e5cef773531e7ea"). Make sure to replace it with your own valid API key from OpenWeatherMap.
+
+
+
 The given code is a Python program that uses the Tkinter library to create a graphical user interface (GUI) application for displaying weather and time information. Here's a description of the code:
 
 1. The code starts by importing the required modules: `tkinter`, `requests`, `datetime`, `pytz`, and `messagebox`.
@@ -23,3 +27,5 @@ The given code is a Python program that uses the Tkinter library to create a gra
 8. Finally, the Tkinter event loop is started to handle user interactions and display the GUI.
 
 Overall, this code creates a simple GUI application that allows users to retrieve weather information and current time for a specified city.
+
+
